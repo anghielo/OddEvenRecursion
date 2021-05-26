@@ -1,7 +1,7 @@
 # Assembly directives
 .data
 msg_stars: .asciiz "******************************************************************\n"
-msg_greeting: .asciiz "Hello, my name is Dany Flores in class CS2640. This program will\nimplement a recursive function in MIPS assembly code for you! :)\n"
+msg_greeting: .asciiz "This program will implement a recursive odd-even function in MIPS assembly.\n"
 msg_newline: .asciiz "\n"
 msg_space: .asciiz " "
 
